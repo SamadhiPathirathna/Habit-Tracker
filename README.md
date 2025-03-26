@@ -4,6 +4,7 @@
 A smart habit tracking app that helps users build better habits with personalized recommendations using machine learning.
 
 Features
+
 ✅ Track Daily Habits 
 
 ✅ Personalized Habit Suggestions (ML-based) 
