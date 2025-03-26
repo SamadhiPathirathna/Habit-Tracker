@@ -4,11 +4,15 @@
 A smart habit tracking app that helps users build better habits with personalized recommendations using machine learning.
 
 Features
-✅ Track Daily Habits 📊
-✅ Personalized Habit Suggestions (ML-based) 🤖
-✅ Data Visualization & Insights 📈
-✅ Notifications & Reminders ⏰
-✅ Secure User Authentication 🔒
+✅ Track Daily Habits 
+
+✅ Personalized Habit Suggestions (ML-based) 
+
+✅ Data Visualization & Insights 
+
+✅ Notifications & Reminders 
+
+✅ Secure User Authentication 
 
 Tech Stack
 Frontend: React Native (Expo)
