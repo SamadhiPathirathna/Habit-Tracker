@@ -1,29 +1,53 @@
-# Habit-Tracker
+# Habit Tracker – Mobile-Based Personalized Cognitive Enhancement System
 
-📝 Habit Tracker App
-A smart habit tracking app that helps users build better habits with personalized recommendations using machine learning.
+This project is a research-backed mobile application designed to enhance cognitive function by analyzing and optimizing daily activities. It tracks habits, visualizes patterns, and provides personalized recommendations to support brain health and memory performance.
 
-Features
+## 📱 About the Project
+The Habit Tracker app is built for individuals looking to maintain or improve their cognitive performance through lifestyle choices. It focuses on:
 
-✅ Track Daily Habits 
+- Monitoring daily habits (physical activity, sleep, hobbies)
+- Visualizing activity data over time
+- Providing personalized recommendations based on machine learning
+- Supporting long-term cognitive well-being
 
-✅ Personalized Habit Suggestions (ML-based) 
+## 🧠 Key Features
+- **Habit Tracking** – Log physical, cognitive, and leisure activities
+- **Data Visualization** – Interactive charts and progress bars
+- **Weekly Insights** – Behavior reports tied to memory goals
+- **Reminders** – Smart notifications to stay on track
+- **ML-Powered Recommendations** – Tailored advice using Random Forest
 
-✅ Data Visualization & Insights 
+## ⚙️ Technologies Used
+- **Frontend:** React Native, Expo
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **ML Model:** Python (Random Forest, XGBoost, Decision Tree)
+- **APIs:** Postman for testing
+- **Tools:** Figma (UI/UX), Jupyter Notebook (model training)
 
-✅ Notifications & Reminders 
+## 📊 ML Model Accuracy
+The system achieved an **83% accuracy** in predicting memory-impacting behaviors using a Random Forest classifier.
 
-✅ Secure User Authentication 
+## 📁 Project Structure
+- `/client` – React Native mobile application
+- `/server` – Node.js backend with API endpoints
+- `/model` – Python-based ML training and evaluation
+- `/docs` – Research documentation and architecture diagrams
 
-Tech Stack
-Frontend: React Native (Expo)
-Backend: Node.js, MongoDB
-Machine Learning: Random Forest (tested XGBoost, Decision Tree)
-Setup
-Clone the repo and install dependencies (npm install).
-Start the backend (node server.js).
-Run the Expo app (expo start).
-Track habits & get smart recommendations!
+## 🧪 Testing
+- Manual + automated test cases for logging, visualization, and ML prediction
+- Test scenarios cover all major functional and non-functional components
+
+## 📄 Research Basis
+This application was developed as a final-year research project at SLIIT, focusing on real-time activity tracking and its impact on memory and cognition.
+
+## 📜 License
+This project is for academic and personal research purposes.
+
+---
+**Author:** Samadhi Navodya Pathirathna  
+**University:** SLIIT – BSc (Hons) in Information Technology  
+
 
 Website- https://samadhipathirathna.github.io/Research-Website/
 
