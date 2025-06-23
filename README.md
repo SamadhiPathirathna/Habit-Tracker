@@ -14,7 +14,6 @@ The Habit Tracker app is built for individuals looking to maintain or improve th
 - **Habit Tracking** – Log physical, cognitive, and leisure activities
 - **Data Visualization** – Interactive charts and progress bars
 - **Weekly Insights** – Behavior reports tied to memory goals
-- **Reminders** – Smart notifications to stay on track
 - **ML-Powered Recommendations** – Tailored advice using Random Forest
 
 ## ⚙️ Technologies Used
@@ -41,8 +40,8 @@ The system achieved an **83% accuracy** in predicting memory-impacting behaviors
 ## 📄 Research Basis
 This application was developed as a final-year research project at SLIIT, focusing on real-time activity tracking and its impact on memory and cognition.
 
-## 📜 License
-This project is for academic and personal research purposes.
+
+#This project is for academic and personal research purposes.
 
 ---
 **Author:** Samadhi Navodya Pathirathna  
